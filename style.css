@@ -1,0 +1,19 @@
+#bookContainer > div > p {
+    font-size: 4mm;
+    color: blue
+    ;
+}
+
+#bookContainer > div {
+    width: 200px;
+    height: 250px;
+    background-color: black;
+}
+
+form {
+    display: none;
+}
+
+#formsButton {
+    margin: 12px;
+}
